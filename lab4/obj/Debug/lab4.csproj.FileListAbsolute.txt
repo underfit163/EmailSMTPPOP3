@@ -1,0 +1,43 @@
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.exe.config
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.exe
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\bin\Debug\lab4.pdb
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.Form1.resources
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.exe
+c:\users\сергей\documents\visual studio 2012\Projects\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Леше 4 лаба сети\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\User\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\User\Desktop\Леше 4 лаба сети\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\User\Desktop\СГАУ\Сети\4 лаба сети\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\User\Desktop\СГАУ\Сети\4 лаба сети\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\User\Desktop\СГАУ\Сети\4 лаба сети\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Сергей\Desktop\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Сергей\Desktop\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Сергей\Desktop\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\163ty\Desktop\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\163ty\Desktop\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\163ty\Desktop\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\163ty\Desktop\lab4\lab4\obj\Debug\lab4.pdb

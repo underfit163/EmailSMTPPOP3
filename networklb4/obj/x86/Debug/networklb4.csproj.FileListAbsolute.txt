@@ -1,0 +1,46 @@
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\bin\Debug\networklb4.exe
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\bin\Debug\networklb4.pdb
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.Form1.resources
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.Properties.Resources.resources
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.csproj.GenerateResource.Cache
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.exe
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.pdb
+C:\Users\ДНС\AppData\Local\Temporary Projects\networklb4\obj\x86\Debug\networklb4.Form2.resources
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.exe
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.pdb
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\bin\Debug\networklb4.exe
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\bin\Debug\networklb4.pdb
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.Form1.resources
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.Form2.resources
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.Form3.resources
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.Properties.Resources.resources
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.csproj.GenerateResource.Cache
+C:\Users\ДНС\Documents\Visual Studio 2010\Projects\networklb4\networklb4\obj\x86\Debug\networklb4.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\bin\Debug\networklb4.exe
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\bin\Debug\networklb4.pdb
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.Form1.resources
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.Form2.resources
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.Form3.resources
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.Properties.Resources.resources
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.csproj.GenerateResource.Cache
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.exe
+C:\Users\Кристина\YandexDisk\ИВТ\5 семестр\Сети\Лабы\networklb4\networklb4\obj\x86\Debug\networklb4.pdb
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.exe
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.pdb
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\bin\Debug\networklb4.exe
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\bin\Debug\networklb4.pdb
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.csprojResolveAssemblyReference.cache
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.Form1.resources
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.Properties.Resources.resources
+D:\Документы мои\ИВТ СГАУ\СЭиТ\networklb4\networklb4\obj\x86\Debug\networklb4.csproj.GenerateResource.Cache
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.exe
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.pdb
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.csprojResolveAssemblyReference.cache
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.Form1.resources
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.Properties.Resources.resources
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\obj\x86\Debug\networklb4.csproj.GenerateResource.Cache
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\bin\Debug\networklb4.exe
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\bin\Debug\networklb4.pdb
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\bin\Debug\Pop3Lib.dll
+D:\Документы мои\ИВТ СГАУ\СЭиТ\lab4\networklb4\bin\Debug\Pop3Lib.xml
