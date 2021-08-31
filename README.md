@@ -7,3 +7,4 @@ Acquisition of skills in working with a simple SMTP email sending protocol. Acqu
 Программа должна поддерживать возможность получения приложенных к письму файлов и сохранение их на персональном компьютере пользователя.
 
 ## Результат выполнения программы
+![image](https://user-images.githubusercontent.com/81982349/131565329-21e48f41-b0c4-45f8-8319-4bcbe3aa8437.png)
